@@ -43,8 +43,8 @@ print(feat.shape)  # (4, 12)
 
 ### This Repo
 
-Surya Kant Sahu (surya.@gmail.com)[surya.@gmail.com]
+Surya Kant Sahu - surya.@gmail.com
 
 ### Original Author
 
-Tetsuya Ishikawa (tiskw111@gmail.com)[tiskw111@gmail.com]
+Tetsuya Ishikawa - tiskw111@gmail.com
