@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
     name='py_rff',
     packages=['PyRFF'],
-    version='0.1',
+    version='0.2',
     license='MIT',
     description='Random Feature Extraction with Numpy',
     author='Surya Kant Sahu',
     author_email='surya.oju@gmail.com',
     url='https://github.com/ojus1/PyRFF',
-    download_url='https://github.com/ojus1/PyRFF/archive/v_01.tar.gz',
+    download_url='https://github.com/ojus1/PyRFF/archive/v_02.tar.gz',
     keywords=['Machine Learning', 'Feature Engineering',
               'Artificial Intelligence'],
     install_requires=[
