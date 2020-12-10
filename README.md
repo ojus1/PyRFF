@@ -35,9 +35,9 @@ print(feat.shape)  # (4, 12)
 
 ## Installation
 
-`pip install PyRFF`
+`pip install py-rff`
 
-- Check (Example.py)[./Example.py] for the starter code.
+- Check ["Example.py"](./Example.py) for the starter code.
 
 ## Authors
 
