@@ -12,7 +12,7 @@ This repository extends [this repo](https://github.com/tiskw/Random-Fourier-Feat
 
 ## Usage
 
-```
+```python
 from PyRFF import get_features_sequential, get_features
 import numpy as np
 
